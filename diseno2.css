@@ -1,0 +1,31 @@
+body {
+ background-color: #F2F3F4;
+}
+#cuerpo {
+ width:800px; height:400px;
+ margin: 0 auto 0 auto;
+ background-color: #ffbbbb;
+}
+#cabecera {
+ width:800px;
+ height:60px;
+ margin: 0 auto 0 auto;
+ background-color:#85929E;
+ color: #FDFEFE;
+}
+#resultado {
+ width:800px;
+ height:400px;
+ margin: 0 auto 0 auto;
+ background-color: #2C3E50;
+  color: #FDFEFE;
+}
+#descripcion {
+ width:800px;
+ height: 600px;
+ margin: 0 auto 0 auto;
+ background-color: #1C2833;
+ float: left;
+ color: #FDFEFE;
+}
+

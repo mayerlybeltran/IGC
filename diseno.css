@@ -1,0 +1,27 @@
+body {
+ background-color: #F2F3F4;
+}
+#global {
+ width:800px; height:500px;
+ margin: 0 auto 0 auto;
+ background-color: #AEB6BF;
+}
+#cabecera {
+ width:800px;
+ height:60px;
+ margin: 0 auto 0 auto;
+ background-color:#85929E;
+ color: #FDFEFE;
+
+}
+#formulario {
+ width:800px;
+ height:400px;
+ margin: 0 auto 0 auto;
+ background-color: #2C3E50;
+  color: #FDFEFE;
+}
+
+
+
+
